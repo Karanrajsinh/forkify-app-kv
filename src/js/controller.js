@@ -10,6 +10,7 @@ import addRecipeView from './views/addRecipeView.js';
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
 
+console.log('welcome')
 
 const controlRecipes = async function () {
   try {
