@@ -1,4 +1,4 @@
-9645
+9653
 132E:\Programming\Javascript\18-forkify\starter\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.darwin-arm64.node133477933067860508 0
 110E:\Programming\Javascript\18-forkify\starter\node_modules\csso\node_modules\css-tree\lib\syntax\node\Number.js133477933075169424 0
 119E:\Programming\Javascript\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\package.json133477933073008448 0
@@ -30,7 +30,7 @@
 96E:\Programming\Javascript\18-forkify\starter\node_modules\svgo\plugins\convertEllipseToCircle.js133477933068701842 0
 104E:\Programming\Javascript\18-forkify\starter\node_modules\caniuse-lite\data\features\intl-pluralrules.js133477933079016773 0
 107E:\Programming\Javascript\18-forkify\starter\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile133477933065609382 0
-49E:\Programming\Javascript\18-forkify\starter\dist133477981653030926 1
+49E:\Programming\Javascript\18-forkify\starter\dist133477981788296885 1
 126E:\Programming\Javascript\18-forkify\starter\node_modules\csso\node_modules\css-tree\cjs\syntax\node\PseudoElementSelector.cjs133477933071414407 0
 64E:\Programming\Javascript\18-forkify\starter\node_modules\@babel133477933046906045 1
 74E:\Programming\Javascript\18-forkify\starter\node_modules\msgpackr\pack.js133477933066201199 0
@@ -1730,6 +1730,7 @@
 101E:\Programming\Javascript\18-forkify\starter\node_modules\core-js\internals\to-integer-or-infinity.js133477933104831392 0
 108E:\Programming\Javascript\18-forkify\starter\node_modules\@parcel\reporter-dev-server\src\templates\500.html133477933062491799 0
 82E:\Programming\Javascript\18-forkify\starter\node_modules\source-map\lib\base64.js133477933063740046 0
+70E:\Programming\Javascript\18-forkify\starter\dist\favicon.8b2f57bf.png133477981787696922 0
 88E:\Programming\Javascript\18-forkify\starter\node_modules\source-map\lib\mapping-list.js133477933064295884 0
 80E:\Programming\Javascript\18-forkify\starter\node_modules\json5\lib\unicode.d.ts133477933066638022 0
 96E:\Programming\Javascript\18-forkify\starter\node_modules\source-map\lib\source-map-generator.js133477933064956701 0
@@ -1750,6 +1751,7 @@
 80E:\Programming\Javascript\18-forkify\starter\node_modules\source-map\lib\util.js133477933065379477 0
 84E:\Programming\Javascript\18-forkify\starter\node_modules\@swc\helpers\_\_instanceof133477933076162131 1
 111E:\Programming\Javascript\18-forkify\starter\node_modules\@swc\helpers\_\_interop_require_wildcard\package.json133477933076193087 0
+68E:\Programming\Javascript\18-forkify\starter\dist\icons.dfd7a6db.svg133477981788296885 0
 76E:\Programming\Javascript\18-forkify\starter\node_modules\sass\sass.node.mjs133477933070524975 0
 105E:\Programming\Javascript\18-forkify\starter\node_modules\core-js\internals\set-method-accept-set-like.js133477933101427030 0
 94E:\Programming\Javascript\18-forkify\starter\node_modules\core-js\modules\esnext.map.upsert.js133477933084547078 0
@@ -4730,6 +4732,7 @@
 77E:\Programming\Javascript\18-forkify\starter\node_modules\argparse\lib\sub.js133477933062648251 0
 80E:\Programming\Javascript\18-forkify\starter\node_modules\core-js\postinstall.js133477933098618028 0
 75E:\Programming\Javascript\18-forkify\starter\node_modules\core-js\proposals133477933109288312 1
+72E:\Programming\Javascript\18-forkify\starter\dist\index.f7626f62.css.map133477981787696922 0
 75E:\Programming\Javascript\18-forkify\starter\node_modules\core-js\README.md133477933109747149 0
 84E:\Programming\Javascript\18-forkify\starter\node_modules\core-js\es\string\split.js133477933102950881 0
 71E:\Programming\Javascript\18-forkify\starter\node_modules\core-js\stage133477933109747149 1
@@ -4938,6 +4941,7 @@
 91E:\Programming\Javascript\18-forkify\starter\node_modules\core-js\full\instance\flat-map.js133477933088331512 0
 97E:\Programming\Javascript\18-forkify\starter\node_modules\core-js\stable\string\virtual\substr.js133477933103921471 0
 101E:\Programming\Javascript\18-forkify\starter\node_modules\core-js\stable\string\virtual\trim-right.js133477933106973617 0
+67E:\Programming\Javascript\18-forkify\starter\dist\logo.726d37a8.png133477981788170077 0
 101E:\Programming\Javascript\18-forkify\starter\node_modules\core-js\stable\string\virtual\trim-start.js133477933107141575 0
 89E:\Programming\Javascript\18-forkify\starter\node_modules\core-js\actual\instance\flat.js133477933088381499 0
 95E:\Programming\Javascript\18-forkify\starter\node_modules\core-js\stable\string\virtual\trim.js133477933107281563 0
@@ -8993,6 +8997,7 @@
 132E:\Programming\Javascript\18-forkify\starter\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\IdSelector.js133477933069663855 0
 127E:\Programming\Javascript\18-forkify\starter\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\index.js133477933070387175 0
 132E:\Programming\Javascript\18-forkify\starter\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\MediaQuery.js133477933070916003 0
+68E:\Programming\Javascript\18-forkify\starter\dist\icons.21bad73c.svg133477981787596595 0
 136E:\Programming\Javascript\18-forkify\starter\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\MediaQueryList.js133477933071072888 0
 125E:\Programming\Javascript\18-forkify\starter\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Nth.js133477933071424444 0
 128E:\Programming\Javascript\18-forkify\starter\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Number.js133477933071556698 0
@@ -9638,7 +9643,10 @@
 67E:\Programming\Javascript\18-forkify\starter\dist\index.a1fe087d.js133477981652822988 0
 71E:\Programming\Javascript\18-forkify\starter\dist\index.a1fe087d.js.map133477981653030926 0
 71E:\Programming\Javascript\18-forkify\starter\dist\index.b7f3fb6e.js.map133477954771159665 0
-60E:\Programming\Javascript\18-forkify\starter\dist\index.html133477981652822988 0
+67E:\Programming\Javascript\18-forkify\starter\dist\index.e37f48ea.js133477981787879031 0
+71E:\Programming\Javascript\18-forkify\starter\dist\index.e37f48ea.js.map133477981788035377 0
+68E:\Programming\Javascript\18-forkify\starter\dist\index.f7626f62.css133477981787596595 0
+60E:\Programming\Javascript\18-forkify\starter\dist\index.html133477981787596595 0
 75E:\Programming\Javascript\18-forkify\starter\dist\index.runtime.94dcc1a7.js133477981652822988 0
 79E:\Programming\Javascript\18-forkify\starter\dist\index.runtime.94dcc1a7.js.map133477981653030926 0
 75E:\Programming\Javascript\18-forkify\starter\dist\index.runtime.afd5586f.js133477954771051877 0
