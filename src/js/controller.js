@@ -10,7 +10,7 @@ import addRecipeView from './views/addRecipeView.js';
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
 
-console.log('welcome')
+console.log('welcome to forkify app')
 
 const controlRecipes = async function () {
   try {
